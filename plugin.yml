@@ -1,0 +1,12 @@
+name: PlayerLevelAPI
+main: nghiaOMG\PlayerLevelAPI\PlayerLevelAPI
+author: nghiaOMG
+api: 3.0.0
+version: 1.0.1
+commands:
+  level:
+    description: PlayerLevelBcommand
+permissions:
+  level.command:
+    default: op
+    description: Allows use of the /level command
